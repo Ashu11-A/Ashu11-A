@@ -21,7 +21,8 @@
 </p>
       <td>
         <a href="https://github.com/Jexactyl-Brasil/Jexactyl-Brasil"><img src="https://custom-icon-badges.demolab.com/badge/-Jexactyl%20Brasil-D90368?style=for-the-badge&logo=mention" alt="typesense" /></a>
-      </td>
+      <a href="https://github.com/Seventyhost"><img src="https://custom-icon-badges.demolab.com/badge/-Seventyhost%20-D90368?style=for-the-badge&logo=mention" alt="typesense" /></a>
+</td>
     </tr>
   </table>
 </details>
