@@ -204,11 +204,11 @@
 -->
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil/pull/4) in [Jexactyl-Brasil/Jexactyl-Brasil](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil)
-2. 🎉 Merged PR [#5](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil/pull/5) in [Jexactyl-Brasil/Jexactyl-Brasil](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil)
-3. 🎉 Merged PR [#3](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil/pull/3) in [Jexactyl-Brasil/Jexactyl-Brasil](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil)
-4. 🗣 Commented on [#68](https://github.com/Jexactyl/Jexactyl/issues/68) in [Jexactyl/Jexactyl](https://github.com/Jexactyl/Jexactyl)
-5. 🗣 Commented on [#239](https://github.com/Jexactyl/Jexactyl/issues/239) in [Jexactyl/Jexactyl](https://github.com/Jexactyl/Jexactyl)
+1. 🗣 Commented on [#245](https://github.com/Jexactyl/Jexactyl/issues/245) in [Jexactyl/Jexactyl](https://github.com/Jexactyl/Jexactyl)
+2. 🗣 Commented on [#254](https://github.com/Jexactyl/Jexactyl/issues/254) in [Jexactyl/Jexactyl](https://github.com/Jexactyl/Jexactyl)
+3. 🎉 Merged PR [#8](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil/pull/8) in [Jexactyl-Brasil/Jexactyl-Brasil](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil)
+4. 🗣 Commented on [#8](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil/issues/8) in [Jexactyl-Brasil/Jexactyl-Brasil](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil)
+5. 🎉 Merged PR [#9](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil/pull/9) in [Jexactyl-Brasil/Jexactyl-Brasil](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil)
 5. 🗣 Commented on [#383](https://github.com/DenverCoder1/github-readme-streak-stats/issues/383) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 -->
 <!--END_SECTION:activity-->
