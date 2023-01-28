@@ -204,11 +204,11 @@
 -->
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#22](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil/issues/22) in [Jexactyl-Brasil/Jexactyl-Brasil](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil)
-2. 🗣 Commented on [#22](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil/issues/22) in [Jexactyl-Brasil/Jexactyl-Brasil](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil)
-3. 🎉 Merged PR [#14](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil/pull/14) in [Jexactyl-Brasil/Jexactyl-Brasil](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil)
-4. 🗣 Commented on [#2](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil/issues/2) in [Jexactyl-Brasil/Jexactyl-Brasil](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil)
-5. 🗣 Commented on [#11](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil/issues/11) in [Jexactyl-Brasil/Jexactyl-Brasil](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil)
+1. 🎉 Merged PR [#23](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil/pull/23) in [Jexactyl-Brasil/Jexactyl-Brasil](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil)
+2. 💪 Opened PR [#23](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil/pull/23) in [Jexactyl-Brasil/Jexactyl-Brasil](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil)
+3. 🎉 Merged PR [#20](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil/pull/20) in [Jexactyl-Brasil/Jexactyl-Brasil](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil)
+4. 🎉 Merged PR [#18](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil/pull/18) in [Jexactyl-Brasil/Jexactyl-Brasil](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil)
+5. 🎉 Merged PR [#17](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil/pull/17) in [Jexactyl-Brasil/Jexactyl-Brasil](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil)
 5. 🗣 Commented on [#383](https://github.com/DenverCoder1/github-readme-streak-stats/issues/383) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 -->
 <!--END_SECTION:activity-->
