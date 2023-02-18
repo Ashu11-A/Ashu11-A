@@ -206,11 +206,11 @@
 -->
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#44](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil/pull/44) in [Jexactyl-Brasil/Jexactyl-Brasil](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil)
-2. 🎉 Merged PR [#36](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil/pull/36) in [Jexactyl-Brasil/Jexactyl-Brasil](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil)
-3. 🎉 Merged PR [#37](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil/pull/37) in [Jexactyl-Brasil/Jexactyl-Brasil](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil)
-4. 🎉 Merged PR [#32](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil/pull/32) in [Jexactyl-Brasil/Jexactyl-Brasil](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil)
-5. 🎉 Merged PR [#29](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil/pull/29) in [Jexactyl-Brasil/Jexactyl-Brasil](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil)
+1. 🎉 Merged PR [#39](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil/pull/39) in [Jexactyl-Brasil/Jexactyl-Brasil](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil)
+2. 🎉 Merged PR [#44](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil/pull/44) in [Jexactyl-Brasil/Jexactyl-Brasil](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil)
+3. 🎉 Merged PR [#36](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil/pull/36) in [Jexactyl-Brasil/Jexactyl-Brasil](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil)
+4. 🎉 Merged PR [#37](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil/pull/37) in [Jexactyl-Brasil/Jexactyl-Brasil](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil)
+5. 🎉 Merged PR [#32](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil/pull/32) in [Jexactyl-Brasil/Jexactyl-Brasil](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil)
 5. 🗣 Commented on [#383](https://github.com/DenverCoder1/github-readme-streak-stats/issues/383) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 -->
 <!--END_SECTION:activity-->
