@@ -206,11 +206,11 @@
 -->
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/Ashuyomi/Ashuyomi/pull/2) in [Ashuyomi/Ashuyomi](https://github.com/Ashuyomi/Ashuyomi)
-2. 💪 Opened PR [#2](https://github.com/Ashuyomi/Ashuyomi/pull/2) in [Ashuyomi/Ashuyomi](https://github.com/Ashuyomi/Ashuyomi)
-3. ❗️ Closed issue [#3](https://github.com/Ashuyomi/Ashuyomi-extensions/issues/3) in [Ashuyomi/Ashuyomi-extensions](https://github.com/Ashuyomi/Ashuyomi-extensions)
-4. ❗️ Closed issue [#3](https://github.com/Ashuyomi/Ashuyomi-extensions/issues/3) in [Ashuyomi/Ashuyomi-extensions](https://github.com/Ashuyomi/Ashuyomi-extensions)
-5. ❗️ Closed issue [#3](https://github.com/Ashuyomi/Ashuyomi-extensions/issues/3) in [Ashuyomi/Ashuyomi-extensions](https://github.com/Ashuyomi/Ashuyomi-extensions)
+1. 🎉 Merged PR [#52](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil/pull/52) in [Jexactyl-Brasil/Jexactyl-Brasil](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil)
+2. 🎉 Merged PR [#51](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil/pull/51) in [Jexactyl-Brasil/Jexactyl-Brasil](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil)
+3. 🎉 Merged PR [#47](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil/pull/47) in [Jexactyl-Brasil/Jexactyl-Brasil](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil)
+4. 🗣 Commented on [#52](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil/issues/52) in [Jexactyl-Brasil/Jexactyl-Brasil](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil)
+5. 🗣 Commented on [#51](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil/issues/51) in [Jexactyl-Brasil/Jexactyl-Brasil](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil)
 5. 🗣 Commented on [#383](https://github.com/DenverCoder1/github-readme-streak-stats/issues/383) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 -->
 <!--END_SECTION:activity-->
