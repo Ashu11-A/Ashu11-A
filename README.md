@@ -22,7 +22,7 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Ashu11-A?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
       <td>
-        <a href="https://github.com/Jexactyl-Brasil/Jexactyl-Brasil"><img src="https://custom-icon-badges.demolab.com/badge/-Jexactyl%20Brasil-D90368?style=for-the-badge&logo=mention" alt="typesense" /></a>
+        <a href="https://github.com/Next-Panel"><img src="https://custom-icon-badges.demolab.com/badge/-NextPanel-D90368?style=for-the-badge&logo=mention" alt="typesense" /></a>
       <a href="https://github.com/Seventyhost"><img src="https://custom-icon-badges.demolab.com/badge/-Seventyhost%20-D90368?style=for-the-badge&logo=mention" alt="typesense" /></a>
 </td>
     </tr>
