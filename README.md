@@ -206,11 +206,11 @@
 -->
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/Next-Panel/.github/issues/2) in [Next-Panel/.github](https://github.com/Next-Panel/.github)
-2. ❗️ Closed issue [#1](https://github.com/Next-Panel/.github/issues/1) in [Next-Panel/.github](https://github.com/Next-Panel/.github)
-3. 🎉 Merged PR [#47](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil/pull/47) in [Jexactyl-Brasil/Jexactyl-Brasil](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil)
-4. 🗣 Commented on [#52](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil/issues/52) in [Jexactyl-Brasil/Jexactyl-Brasil](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil)
-5. 🗣 Commented on [#51](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil/issues/51) in [Jexactyl-Brasil/Jexactyl-Brasil](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil)
+1. 🎉 Merged PR [#1](https://github.com/Next-Panel/Jexactyl-API/pull/1) in [Next-Panel/Jexactyl-API](https://github.com/Next-Panel/Jexactyl-API)
+2. 🗣 Commented on [#1](https://github.com/Next-Panel/Jexactyl-API/issues/1) in [Next-Panel/Jexactyl-API](https://github.com/Next-Panel/Jexactyl-API)
+3. 🎉 Merged PR [#60](https://github.com/Next-Panel/Jexactyl-BR/pull/60) in [Next-Panel/Jexactyl-BR](https://github.com/Next-Panel/Jexactyl-BR)
+4. 🎉 Merged PR [#1](https://github.com/Ashuyomi/Ashuyomi/pull/1) in [Ashuyomi/Ashuyomi](https://github.com/Ashuyomi/Ashuyomi)
+5. 🎉 Merged PR [#59](https://github.com/Next-Panel/Jexactyl-BR/pull/59) in [Next-Panel/Jexactyl-BR](https://github.com/Next-Panel/Jexactyl-BR)
 5. 🗣 Commented on [#383](https://github.com/DenverCoder1/github-readme-streak-stats/issues/383) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 -->
 <!--END_SECTION:activity-->
