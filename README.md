@@ -2,10 +2,8 @@
 <p align="center">
   <a href="https://www.youtube.com/channel/UCU42yWOSFT53BZ4w5vXAWRA"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-<!--
   <a href="https://twitter.com/ashu_sama5"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
--->
   <a href="https://discord.gg/68k7wDGjYc" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
@@ -21,10 +19,10 @@
   <a href="https://github.com/Ashu11-A?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Ashu11-A?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
-      <td>
+      <p align="center">
         <a href="https://github.com/Next-Panel"><img src="https://custom-icon-badges.demolab.com/badge/-NextPanel-D90368?style=for-the-badge&logo=mention" alt="typesense" /></a>
-      <a href="https://github.com/Seventyhost"><img src="https://custom-icon-badges.demolab.com/badge/-Seventyhost%20-D90368?style=for-the-badge&logo=mention" alt="typesense" /></a>
-</td>
+        <a href="https://github.com/Seventyhost"><img src="https://custom-icon-badges.demolab.com/badge/-Seventyhost%20-D90368?style=for-the-badge&logo=mention" alt="typesense" /></a>
+</p>
     </tr>
   </table>
 </details>
