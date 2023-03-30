@@ -204,8 +204,8 @@
 -->
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Next-Panel/Pterodactyl-API/pull/1) in [Next-Panel/Pterodactyl-API](https://github.com/Next-Panel/Pterodactyl-API)
-2. 💪 Opened PR [#1](https://github.com/Next-Panel/Pterodactyl-API/pull/1) in [Next-Panel/Pterodactyl-API](https://github.com/Next-Panel/Pterodactyl-API)
+1. 🗣 Commented on [#282](https://github.com/Jexactyl/Jexactyl/issues/282) in [Jexactyl/Jexactyl](https://github.com/Jexactyl/Jexactyl)
+2. 🗣 Commented on [#281](https://github.com/Jexactyl/Jexactyl/issues/281) in [Jexactyl/Jexactyl](https://github.com/Jexactyl/Jexactyl)
 3. 🎉 Merged PR [#65](https://github.com/Next-Panel/Jexactyl-BR/pull/65) in [Next-Panel/Jexactyl-BR](https://github.com/Next-Panel/Jexactyl-BR)
 4. 💪 Opened PR [#65](https://github.com/Next-Panel/Jexactyl-BR/pull/65) in [Next-Panel/Jexactyl-BR](https://github.com/Next-Panel/Jexactyl-BR)
 5. ❌ Closed PR [#64](https://github.com/Next-Panel/Jexactyl-BR/pull/64) in [Next-Panel/Jexactyl-BR](https://github.com/Next-Panel/Jexactyl-BR)
