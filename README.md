@@ -204,10 +204,10 @@
 -->
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/Ashu11-A/Ashu_eggs/issues/3) in [Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)
-2. ❗️ Closed issue [#3](https://github.com/Ashu11-A/Ashu_eggs/issues/3) in [Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)
-3. 🗣 Commented on [#106](https://github.com/Next-Panel/Jexactyl-BR/issues/106) in [Next-Panel/Jexactyl-BR](https://github.com/Next-Panel/Jexactyl-BR)
-4. 🗣 Commented on [#103](https://github.com/Next-Panel/Jexactyl-BR/issues/103) in [Next-Panel/Jexactyl-BR](https://github.com/Next-Panel/Jexactyl-BR)
+1. 🎉 Merged PR [#2](https://github.com/Ashu11-A/Ashu-API/pull/2) in [Ashu11-A/Ashu-API](https://github.com/Ashu11-A/Ashu-API)
+2. 🎉 Merged PR [#1](https://github.com/Ashu11-A/Ashu-API/pull/1) in [Ashu11-A/Ashu-API](https://github.com/Ashu11-A/Ashu-API)
+3. 🗣 Commented on [#3](https://github.com/Ashu11-A/Ashu_eggs/issues/3) in [Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)
+4. ❗️ Closed issue [#3](https://github.com/Ashu11-A/Ashu_eggs/issues/3) in [Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)
 5. 🗣 Commented on [#99](https://github.com/Next-Panel/Jexactyl-BR/issues/99) in [Next-Panel/Jexactyl-BR](https://github.com/Next-Panel/Jexactyl-BR)
 5. 🗣 Commented on [#383](https://github.com/DenverCoder1/github-readme-streak-stats/issues/383) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 -->
