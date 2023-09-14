@@ -204,11 +204,11 @@
 -->
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Ashu11-A/SeventyHost-Bot/pull/1) in [Ashu11-A/SeventyHost-Bot](https://github.com/Ashu11-A/SeventyHost-Bot)
-2. 🎉 Merged PR [#2](https://github.com/Ashu11-A/Ashu-API/pull/2) in [Ashu11-A/Ashu-API](https://github.com/Ashu11-A/Ashu-API)
-3. 🎉 Merged PR [#1](https://github.com/Ashu11-A/Ashu-API/pull/1) in [Ashu11-A/Ashu-API](https://github.com/Ashu11-A/Ashu-API)
-4. 🗣 Commented on [#3](https://github.com/Ashu11-A/Ashu_eggs/issues/3) in [Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)
-5. ❗️ Closed issue [#3](https://github.com/Ashu11-A/Ashu_eggs/issues/3) in [Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)
+1. ❌ Closed PR [#2](https://github.com/Ashu11-A/Ashu_eggs/pull/2) in [Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)
+2. 🗣 Commented on [#2](https://github.com/Ashu11-A/Ashu_eggs/issues/2) in [Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)
+3. 🎉 Merged PR [#1](https://github.com/Ashu11-A/SeventyHost-Bot/pull/1) in [Ashu11-A/SeventyHost-Bot](https://github.com/Ashu11-A/SeventyHost-Bot)
+4. 🎉 Merged PR [#2](https://github.com/Ashu11-A/Ashu-API/pull/2) in [Ashu11-A/Ashu-API](https://github.com/Ashu11-A/Ashu-API)
+5. 🎉 Merged PR [#1](https://github.com/Ashu11-A/Ashu-API/pull/1) in [Ashu11-A/Ashu-API](https://github.com/Ashu11-A/Ashu-API)
 5. 🗣 Commented on [#383](https://github.com/DenverCoder1/github-readme-streak-stats/issues/383) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 -->
 <!--END_SECTION:activity-->
