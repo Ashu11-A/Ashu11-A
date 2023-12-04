@@ -67,11 +67,11 @@
 -->
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/Ashu11-A/Ashu_eggs/issues/4) in [Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)
-2. ❗️ Closed issue [#4](https://github.com/Ashu11-A/Ashu_eggs/issues/4) in [Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)
-3. 🗣 Commented on [#914](https://github.com/Ctrlpanel-gg/panel/issues/914) in [Ctrlpanel-gg/panel](https://github.com/Ctrlpanel-gg/panel)
-4. 🎉 Merged PR [#3](https://github.com/Ashu11-A/PaymentBot/pull/3) in [Ashu11-A/PaymentBot](https://github.com/Ashu11-A/PaymentBot)
-5. 🎉 Merged PR [#2](https://github.com/Ashu11-A/Ashu-API/pull/2) in [Ashu11-A/Ashu-API](https://github.com/Ashu11-A/Ashu-API)
+1. 🎉 Merged PR [#6](https://github.com/Ashu11-A/PaymentBot/pull/6) in [Ashu11-A/PaymentBot](https://github.com/Ashu11-A/PaymentBot)
+2. 🗣 Commented on [#4](https://github.com/Ashu11-A/PaymentBot/issues/4) in [Ashu11-A/PaymentBot](https://github.com/Ashu11-A/PaymentBot)
+3. 🗣 Commented on [#5](https://github.com/Ashu11-A/PaymentBot/issues/5) in [Ashu11-A/PaymentBot](https://github.com/Ashu11-A/PaymentBot)
+4. 🗣 Commented on [#4](https://github.com/Ashu11-A/Ashu_eggs/issues/4) in [Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)
+5. ❗️ Closed issue [#4](https://github.com/Ashu11-A/Ashu_eggs/issues/4) in [Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)
 6. 🗣 Commented on [#383](https://github.com/DenverCoder1/github-readme-streak-stats/issues/383) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 <!--END_SECTION:activity-->
 
