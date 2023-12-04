@@ -44,12 +44,16 @@
 <details>
   <summary><h2>📊 Estatísticas do Github e Atividades</h2></summary>
 
-  <h3>🔥 Estatísticas Streak</h3>
-
+  
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <h3>🧑‍💻 Estatísticas de Linguagem</h3>
+  <p>
+    <img alt="Ashu11-A streak" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashu11-A&layout=compact&langs_count=20&hide_border=true&card_width=490&title_color=63fbf2&icon_color=fff&bg_color=0b0c10"/>
+  <p/>
+  <h3>🔥 Estatísticas Streak</h3>
   <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=Ashu11-A&theme=dark-smoky&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ashu11-A streak" src="https://streak-stats.demolab.com/?user=Ashu11-A&theme=dark-smoky&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly"/>
     </a>
   </p>
 
@@ -62,17 +66,16 @@
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashu11-A&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<!--
-  <h3>⚡ Recent GitHub Activity</h3>
--->
+
+<h3>⚡ Atividade recente do GitHub</h3>
+
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/Ashu11-A/PaymentBot/pull/6) in [Ashu11-A/PaymentBot](https://github.com/Ashu11-A/PaymentBot)
-2. 🗣 Commented on [#4](https://github.com/Ashu11-A/PaymentBot/issues/4) in [Ashu11-A/PaymentBot](https://github.com/Ashu11-A/PaymentBot)
-3. 🗣 Commented on [#5](https://github.com/Ashu11-A/PaymentBot/issues/5) in [Ashu11-A/PaymentBot](https://github.com/Ashu11-A/PaymentBot)
-4. 🗣 Commented on [#4](https://github.com/Ashu11-A/Ashu_eggs/issues/4) in [Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)
-5. ❗️ Closed issue [#4](https://github.com/Ashu11-A/Ashu_eggs/issues/4) in [Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)
-6. 🗣 Commented on [#383](https://github.com/DenverCoder1/github-readme-streak-stats/issues/383) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+1. 🗣 Commented on [#4](https://github.com/Ashu11-A/Ashu_eggs/issues/4) in [Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)
+2. ❗️ Closed issue [#4](https://github.com/Ashu11-A/Ashu_eggs/issues/4) in [Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)
+3. 🗣 Commented on [#914](https://github.com/Ctrlpanel-gg/panel/issues/914) in [Ctrlpanel-gg/panel](https://github.com/Ctrlpanel-gg/panel)
+4. 🎉 Merged PR [#3](https://github.com/Ashu11-A/PaymentBot/pull/3) in [Ashu11-A/PaymentBot](https://github.com/Ashu11-A/PaymentBot)
+5. 🎉 Merged PR [#2](https://github.com/Ashu11-A/Ashu-API/pull/2) in [Ashu11-A/Ashu-API](https://github.com/Ashu11-A/Ashu-API)
 <!--END_SECTION:activity-->
 
 </details>
