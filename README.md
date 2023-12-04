@@ -40,7 +40,7 @@
 
   <a href="https://github.com/Ashu11-A?tab=repositories&sort=stargazers"><img alt="Todos os Repositórios" title="Todos os Repositórios" src="https://custom-icon-badges.demolab.com/badge/-Click%20Aqui%20Para%20Ver%20Todos%20Os%20Meus%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
-
+<details>
   <summary><h2>📊 Estatísticas do Github e Atividades</h2></summary>
 
   <h3>🔥 Estatísticas Streak</h3>
@@ -60,7 +60,7 @@
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Ashu11-A&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashu11-A&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
   <h3>⚡ Recent GitHub Activity</h3>
 -->
