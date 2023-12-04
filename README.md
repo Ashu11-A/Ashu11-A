@@ -33,12 +33,14 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
+  <a href="https://github.com/Ashu11-A/Ashu_eggs"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ashu11-A&repo=Ashu_eggs&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
     <a href="https://github.com/Next-Panel/Jexactyl-BR"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Next-Panel&repo=Jexactyl-BR&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/Ashu11-A/Ashu_eggs"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ashu11-A&repo=Ashu_eggs&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-    <a href="https://github.com/Ashu11-A/Ashu_Yolks"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Ashu11-A&repo=Ashu_Yolks&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
+    <a href="https://github.com/Ashu11-A/Ashu_Yolks"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Ashu11-A&repo=PaymentBot&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
   </p>
 
+  <p align="center">
   <a href="https://github.com/Ashu11-A?tab=repositories&sort=stargazers"><img alt="Todos os Repositórios" title="Todos os Repositórios" src="https://custom-icon-badges.demolab.com/badge/-Click%20Aqui%20Para%20Ver%20Todos%20Os%20Meus%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <p>
 </details>
 <details>
   <summary><h2>📊 Estatísticas do Github e Atividades</h2></summary>
