@@ -10,8 +10,7 @@
 <br/>
 
 <!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
+<!-- Badges with custom icons - https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
   <a href="https://github.com/Ashu11-A?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Ashu11-A?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
@@ -30,11 +29,10 @@
   <summary><h2>📘 Meus principais projetos de código aberto</h2></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-  <a href="https://github.com/Ashu11-A/Ashu_eggs"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ashu11-A&repo=Ashu_eggs&show_icons=false&title_color=63fbf2&icon_color=fff&theme=transparent" alt="readme-typing-svg"></a>
-    <a href="https://github.com/Next-Panel/Jexactyl-BR"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Next-Panel&repo=Jexactyl-BR&show_icons=false&title_color=63fbf2&icon_color=fff&theme=transparent" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/Ashu11-A/Ashu_Yolks"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Ashu11-A&repo=PaymentBot&show_icons=false&title_color=63fbf2&icon_color=fff&theme=transparent" alt="custom-icon-badges"></a>
+    <a href="https://github.com/Ashu11-A/Ashu_eggs"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashu11-A&repo=Ashu_eggs&theme=transparent&show_icons=false&title_color=63fbf2&icon_color=fff" alt="readme-typing-svg"></a>
+    <a href="https://github.com/Next-Panel/Jexactyl-BR"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Next-Panel&repo=Jexactyl-BR&theme=transparent&show_icons=false&title_color=63fbf2&icon_color=fff" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/Ashu11-A/Ashu_Yolks"><img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=Ashu11-A&repo=PaymentBot&theme=transparent&show_icons=false&title_color=63fbf2&icon_color=fff" alt="custom-icon-badges"></a>
   </p>
 
   <p align="center">
@@ -45,23 +43,23 @@
   <summary><h2>📊 Estatísticas do Github e Atividades</h2></summary>
 
   
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <!-- GitHub Readme Streak Stats - https://github.com/anuraghazra/github-readme-stats -->
   <h3>🧑‍💻 Estatísticas de Linguagem</h3>
   <p>
-    <img alt="Ashu11-A streak" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashu11-A&layout=compact&langs_count=20&hide_border=true&card_width=490&title_color=63fbf2&icon_color=fff&theme=transparent"/>
-  <p/>
+    <img alt="Ashu11-A streak" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashu11-A&theme=transparent&layout=compact&langs_count=20&hide_border=true&card_width=490&title_color=63fbf2&icon_color=fff"/>
+  </p>
   <h3>🔥 Estatísticas Streak</h3>
   <p>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ashu11-A streak" src="https://streak-stats.demolab.com/?user=Ashu11-A&theme=transparent&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly"/>
-    </a>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ashu11-A streak" src="https://streak-stats.demolab.com/?user=Ashu11-A&theme=transparent&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly"/>
   </p>
 
   <h3>💻 Estatísticas de perfil do GitHub</h3>
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Estatísticas de Github de Ashu11-A" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Ashu11-A&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=63fbf2&icon_color=fff&theme=transparent" height="192px"/></a>
+  <p>
+    <img alt="Estatísticas de Github de Ashu11-A" src="https://github-readme-stats.vercel.app/api/?username=Ashu11-A&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=63fbf2&icon_color=fff" height="192px"/>
+  </p>
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
