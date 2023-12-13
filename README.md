@@ -32,7 +32,7 @@
   <p align="left">
     <a href="https://github.com/Ashu11-A/Ashu_eggs"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashu11-A&repo=Ashu_eggs&theme=transparent&show_icons=false&title_color=63fbf2&icon_color=fff" alt="readme-typing-svg"></a>
     <a href="https://github.com/Next-Panel/Jexactyl-BR"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Next-Panel&repo=Jexactyl-BR&theme=transparent&show_icons=false&title_color=63fbf2&icon_color=fff" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/Ashu11-A/Ashu_Yolks"><img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=Ashu11-A&repo=PaymentBot&theme=transparent&show_icons=false&title_color=63fbf2&icon_color=fff" alt="custom-icon-badges"></a>
+    <a href="https://github.com/Ashu11-A/PaymentBot"><img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=Ashu11-A&repo=PaymentBot&theme=transparent&show_icons=false&title_color=63fbf2&icon_color=fff" alt="custom-icon-badges"></a>
   </p>
 
   <p align="center">
