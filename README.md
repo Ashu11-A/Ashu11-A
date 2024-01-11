@@ -69,7 +69,7 @@
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/Ashu11-A/PaymentBot/issues/7) in [Ashu11-A/PaymentBot](https://github.com/Ashu11-A/PaymentBot)
+1. 🎉 Merged PR [#8](https://github.com/Ashu11-A/PaymentBot/pull/8) in [Ashu11-A/PaymentBot](https://github.com/Ashu11-A/PaymentBot)
 2. 🗣 Commented on [#7](https://github.com/Ashu11-A/PaymentBot/issues/7) in [Ashu11-A/PaymentBot](https://github.com/Ashu11-A/PaymentBot)
 3. 🗣 Commented on [#7](https://github.com/Ashu11-A/PaymentBot/issues/7) in [Ashu11-A/PaymentBot](https://github.com/Ashu11-A/PaymentBot)
 4. 🗣 Commented on [#7](https://github.com/Ashu11-A/PaymentBot/issues/7) in [Ashu11-A/PaymentBot](https://github.com/Ashu11-A/PaymentBot)
