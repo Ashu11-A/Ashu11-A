@@ -70,10 +70,10 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#219](https://github.com/Next-Panel/Jexactyl-BR/issues/219) in [Next-Panel/Jexactyl-BR](https://github.com/Next-Panel/Jexactyl-BR)
-2. 🗣 Commented on [#5](https://github.com/Ashu11-A/Ashu_eggs/issues/5) in [Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)
-3. 🗣 Commented on [#5](https://github.com/Ashu11-A/Ashu_eggs/issues/5) in [Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)
-4. 🗣 Commented on [#7](https://github.com/Ashu11-A/PaymentBot/issues/7) in [Ashu11-A/PaymentBot](https://github.com/Ashu11-A/PaymentBot)
-5. 🗣 Commented on [#7](https://github.com/Ashu11-A/PaymentBot/issues/7) in [Ashu11-A/PaymentBot](https://github.com/Ashu11-A/PaymentBot)
+2. ❗️ Closed issue [#219](https://github.com/Next-Panel/Jexactyl-BR/issues/219) in [Next-Panel/Jexactyl-BR](https://github.com/Next-Panel/Jexactyl-BR)
+3. 🗣 Commented on [#219](https://github.com/Next-Panel/Jexactyl-BR/issues/219) in [Next-Panel/Jexactyl-BR](https://github.com/Next-Panel/Jexactyl-BR)
+4. 🗣 Commented on [#5](https://github.com/Ashu11-A/Ashu_eggs/issues/5) in [Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)
+5. 🗣 Commented on [#5](https://github.com/Ashu11-A/Ashu_eggs/issues/5) in [Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)
 <!--END_SECTION:activity-->
 
 </details>
