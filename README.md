@@ -69,9 +69,9 @@
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#6](https://github.com/Ashu11-A/Ashu_eggs/issues/6) in [Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)
+1. 🗣 Commented on [#8](https://github.com/Ashu11-A/Ashu_eggs/issues/8) in [Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)
 2. 🗣 Commented on [#7](https://github.com/Ashu11-A/Ashu_eggs/issues/7) in [Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)
-3. 🗣 Commented on [#6](https://github.com/Ashu11-A/Ashu_eggs/issues/6) in [Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)
+3. ❗️ Closed issue [#6](https://github.com/Ashu11-A/Ashu_eggs/issues/6) in [Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)
 4. 🗣 Commented on [#6](https://github.com/Ashu11-A/Ashu_eggs/issues/6) in [Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)
 5. ❗️ Reopened issue [#6](https://github.com/Ashu11-A/Ashu_eggs/issues/6) in [Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)
 <!--END_SECTION:activity-->
