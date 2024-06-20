@@ -69,11 +69,11 @@
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/mmdevries/eiows/issues/23) in [mmdevries/eiows](https://github.com/mmdevries/eiows)
-2. ❌ Closed PR [#24](https://github.com/mmdevries/eiows/pull/24) in [mmdevries/eiows](https://github.com/mmdevries/eiows)
-3. 💪 Opened PR [#24](https://github.com/mmdevries/eiows/pull/24) in [mmdevries/eiows](https://github.com/mmdevries/eiows)
-4. 💪 Opened PR [#23](https://github.com/mmdevries/eiows/pull/23) in [mmdevries/eiows](https://github.com/mmdevries/eiows)
-5. 🎉 Merged PR [#2](https://github.com/Next-Panel/Nextpanel-API/pull/2) in [Next-Panel/Nextpanel-API](https://github.com/Next-Panel/Nextpanel-API)
+1. 🗣 Commented on [#9](https://github.com/Ashu11-A/Ashu_eggs/issues/9) in [Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)
+2. 🗣 Commented on [#10](https://github.com/Ashu11-A/Ashu_eggs/issues/10) in [Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)
+3. 🗣 Commented on [#23](https://github.com/mmdevries/eiows/issues/23) in [mmdevries/eiows](https://github.com/mmdevries/eiows)
+4. ❌ Closed PR [#24](https://github.com/mmdevries/eiows/pull/24) in [mmdevries/eiows](https://github.com/mmdevries/eiows)
+5. 💪 Opened PR [#24](https://github.com/mmdevries/eiows/pull/24) in [mmdevries/eiows](https://github.com/mmdevries/eiows)
 <!--END_SECTION:activity-->
 
 </details>
