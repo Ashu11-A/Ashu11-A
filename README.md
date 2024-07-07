@@ -69,11 +69,11 @@
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Ashu11-A/cloudflare-manager/pull/2) in [Ashu11-A/cloudflare-manager](https://github.com/Ashu11-A/cloudflare-manager)
-2. 🎉 Merged PR [#3](https://github.com/Ashu11-A/cloudflare-manager/pull/3) in [Ashu11-A/cloudflare-manager](https://github.com/Ashu11-A/cloudflare-manager)
-3. 🎉 Merged PR [#1](https://github.com/Ashu11-A/cloudflare-manager/pull/1) in [Ashu11-A/cloudflare-manager](https://github.com/Ashu11-A/cloudflare-manager)
-4. 🗣 Commented on [#9](https://github.com/Ashu11-A/Ashu_eggs/issues/9) in [Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)
-5. ❗️ Closed issue [#9](https://github.com/Ashu11-A/Ashu_eggs/issues/9) in [Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)
+1. 🎉 Merged PR [#6](https://github.com/Ashu11-A/cloudflare-manager/pull/6) in [Ashu11-A/cloudflare-manager](https://github.com/Ashu11-A/cloudflare-manager)
+2. 🎉 Merged PR [#5](https://github.com/Ashu11-A/cloudflare-manager/pull/5) in [Ashu11-A/cloudflare-manager](https://github.com/Ashu11-A/cloudflare-manager)
+3. 🎉 Merged PR [#7](https://github.com/Ashu11-A/cloudflare-manager/pull/7) in [Ashu11-A/cloudflare-manager](https://github.com/Ashu11-A/cloudflare-manager)
+4. 🎉 Merged PR [#8](https://github.com/Ashu11-A/cloudflare-manager/pull/8) in [Ashu11-A/cloudflare-manager](https://github.com/Ashu11-A/cloudflare-manager)
+5. 🎉 Merged PR [#2](https://github.com/Ashu11-A/cloudflare-manager/pull/2) in [Ashu11-A/cloudflare-manager](https://github.com/Ashu11-A/cloudflare-manager)
 <!--END_SECTION:activity-->
 
 </details>
