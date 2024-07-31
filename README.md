@@ -70,10 +70,10 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#11](https://github.com/Ashu11-A/Ashu_eggs/issues/11) in [Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)
-2. 🗣 Commented on [#11](https://github.com/Ashu11-A/Ashu_eggs/issues/11) in [Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)
-3. ❗️ Closed issue [#11](https://github.com/Ashu11-A/Ashu_eggs/issues/11) in [Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)
+2. ❗️ Reopened issue [#11](https://github.com/Ashu11-A/Ashu_eggs/issues/11) in [Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)
+3. 🗣 Commented on [#11](https://github.com/Ashu11-A/Ashu_eggs/issues/11) in [Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)
 4. 🗣 Commented on [#11](https://github.com/Ashu11-A/Ashu_eggs/issues/11) in [Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)
-5. 🗣 Commented on [#11](https://github.com/Ashu11-A/Ashu_eggs/issues/11) in [Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)
+5. ❗️ Closed issue [#11](https://github.com/Ashu11-A/Ashu_eggs/issues/11) in [Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)
 <!--END_SECTION:activity-->
 
 </details>
