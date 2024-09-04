@@ -69,11 +69,11 @@
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#37](https://github.com/Ashu11-A/cloudflare-manager/pull/37) in [Ashu11-A/cloudflare-manager](https://github.com/Ashu11-A/cloudflare-manager)
-2. 🎉 Merged PR [#38](https://github.com/Ashu11-A/cloudflare-manager/pull/38) in [Ashu11-A/cloudflare-manager](https://github.com/Ashu11-A/cloudflare-manager)
-3. 🎉 Merged PR [#42](https://github.com/Ashu11-A/cloudflare-manager/pull/42) in [Ashu11-A/cloudflare-manager](https://github.com/Ashu11-A/cloudflare-manager)
-4. 🎉 Merged PR [#40](https://github.com/Ashu11-A/cloudflare-manager/pull/40) in [Ashu11-A/cloudflare-manager](https://github.com/Ashu11-A/cloudflare-manager)
-5. 🎉 Merged PR [#3](https://github.com/Ashu11-A/Transpiler-JS-Shell/pull/3) in [Ashu11-A/Transpiler-JS-Shell](https://github.com/Ashu11-A/Transpiler-JS-Shell)
+1. 🎉 Merged PR [#8](https://github.com/Ashu11-A/Transpiler-JS-Shell/pull/8) in [Ashu11-A/Transpiler-JS-Shell](https://github.com/Ashu11-A/Transpiler-JS-Shell)
+2. 🎉 Merged PR [#7](https://github.com/Ashu11-A/Transpiler-JS-Shell/pull/7) in [Ashu11-A/Transpiler-JS-Shell](https://github.com/Ashu11-A/Transpiler-JS-Shell)
+3. 🎉 Merged PR [#6](https://github.com/Ashu11-A/Transpiler-JS-Shell/pull/6) in [Ashu11-A/Transpiler-JS-Shell](https://github.com/Ashu11-A/Transpiler-JS-Shell)
+4. 🎉 Merged PR [#37](https://github.com/Ashu11-A/cloudflare-manager/pull/37) in [Ashu11-A/cloudflare-manager](https://github.com/Ashu11-A/cloudflare-manager)
+5. 🎉 Merged PR [#38](https://github.com/Ashu11-A/cloudflare-manager/pull/38) in [Ashu11-A/cloudflare-manager](https://github.com/Ashu11-A/cloudflare-manager)
 <!--END_SECTION:activity-->
 
 </details>
