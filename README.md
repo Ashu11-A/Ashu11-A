@@ -69,7 +69,7 @@
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#48](https://github.com/Ashu11-A/cloudflare-manager/pull/48) in [Ashu11-A/cloudflare-manager](https://github.com/Ashu11-A/cloudflare-manager)
+1. ❌ Closed PR [#11](https://github.com/Ashu11-A/Fragment-source/pull/11) in [Ashu11-A/Fragment-source](https://github.com/Ashu11-A/Fragment-source)
 2. 🎉 Merged PR [#11](https://github.com/Ashu11-A/Transpiler-JS-Shell/pull/11) in [Ashu11-A/Transpiler-JS-Shell](https://github.com/Ashu11-A/Transpiler-JS-Shell)
 3. 🎉 Merged PR [#12](https://github.com/Ashu11-A/Transpiler-JS-Shell/pull/12) in [Ashu11-A/Transpiler-JS-Shell](https://github.com/Ashu11-A/Transpiler-JS-Shell)
 4. 🎉 Merged PR [#10](https://github.com/Ashu11-A/Transpiler-JS-Shell/pull/10) in [Ashu11-A/Transpiler-JS-Shell](https://github.com/Ashu11-A/Transpiler-JS-Shell)
