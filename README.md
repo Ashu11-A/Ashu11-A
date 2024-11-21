@@ -1,29 +1,77 @@
-<!-- Social icons section -->
+<!-- Linguagens de Programação -->
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCU42yWOSFT53BZ4w5vXAWRA"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/ashu_sama5"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.com/users/379089880887721995" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
+  <a href="https://webassembly.org/"><img src="https://skillicons.dev/icons?i=wasm" alt="WebAssembly" /></a>
+  <a href="https://developer.mozilla.org/en/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <a href="https://www.w3schools.com/c/c_intro.php"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" alt="Python" /></a>
+</p>
+<!-- Ecossistema JavaScript -->
+<p align="center">
+  <a href="https://bun.sh/"><img src="https://skillicons.dev/icons?i=bun" alt="Bun" /></a>
+  <a href="https://deno.com/"><img src="https://skillicons.dev/icons?i=deno" alt="Deno" /></a>
+  <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+</p>
+<!-- Ferramentas de Desenvolvimento -->
+<p align="center">
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a>
+  <a href="https://obsidian.md/"><img src="https://skillicons.dev/icons?i=obsidian" alt="Obsidian" /></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+</p>
+<!-- Banco de Dados -->
+<p align="center">
+  <a href="https://www.prisma.io/"><img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" /></a>
+  <a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" /></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+</p>
+<!-- Frameworks e Bibliotecas -->
+<p align="center">
+  <a href="https://www.tensorflow.org"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" /></a>
+  <a href="https://v2.tauri.app/"><img src="https://skillicons.dev/icons?i=tauri" alt="Tauri" /></a>
+  <a href="https://graphql.org/"><img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" /></a>
+  <a href="https://regexr.com/"><img src="https://skillicons.dev/icons?i=regex" alt="Regex" /></a>
+</p>
+<!-- Sistemas Operacionais -->
+<p align="center">
+  <a href="https://ubuntu.com/"><img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" /></a>
+  <a href="https://www.debian.org"><img src="https://skillicons.dev/icons?i=debian" alt="Debian" /></a>
+  <a href="https://en.wikipedia.org/wiki/Linux"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
+  <a href="https://en.wikipedia.org/wiki/Microsoft_Windows"><img src="https://skillicons.dev/icons?i=windows" alt="Windows" /></a>
+</p>
+<!-- Redes Sociais e Plataformas -->
+<p align="center">
+  <a href="https://discord.com/"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a>
+  <a href="https://x.com/"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
+  <a href="https://stackoverflow.com/"><img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow" /></a>
+  <a href="https://www.cloudflare.com/"><img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" /></a>
+  <a href="https://www.heroku.com/"><img src="https://skillicons.dev/icons?i=heroku" alt="Heroku" /></a>
+</p>
+<!-- Outras Ferramentas -->
+<p align="center">
+  <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" /></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
+  <a href="https://pt.wikipedia.org/wiki/Bash"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" /></a>
+  <a href="https://www.jetbrains.com/idea/"><img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" /></a>
+  <a href="https://www.markdownguide.org/"><img src="https://skillicons.dev/icons?i=md" alt="Markdown" /></a>
+  <a href="https://nginx.org/"><img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" /></a>
+</p>
+<!-- Bibliotecas Frontend e Backend -->
+<p align="center">
+  <a href="https://babeljs.io/"><img src="https://skillicons.dev/icons?i=babel" alt="Babel" /></a>
+  <a href="https://jestjs.io/"><img src="https://skillicons.dev/icons?i=jest" alt="Jest" /></a>
+  <a href="https://nestjs.com/"><img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" /></a>
+  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></a>
+  <a href="https://skillicons.dev/icons?i=npm"><img src="https://skillicons.dev/icons?i=npm" alt="npm" /></a>
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a>
+  <a href="https://threejs.org/"><img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" /></a>
+  <a href="https://vite.dev/"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" /></a>
+  <a href="https://discord.js.org/"><img src="https://skillicons.dev/icons?i=discordjs" alt="Discord.js" /></a>
+  <a href="https://discord.com/developers/docs/intro"><img src="https://skillicons.dev/icons?i=bots" alt="Bots" /></a>
 </p>
 
-<br/>
 
-<!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-  <a href="https://github.com/Ashu11-A?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Ashu11-A?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/Ashu11-A?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Ashu11-A?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
-      <p align="center">
-        <a href="https://github.com/Next-Panel"><img src="https://custom-icon-badges.demolab.com/badge/-NextPanel-D90368?style=for-the-badge&logo=mention" alt="typesense" /></a>
-        <a href="https://github.com/Seventyhost"><img src="https://custom-icon-badges.demolab.com/badge/-Seventyhost%20-D90368?style=for-the-badge&logo=mention" alt="typesense" /></a>
-</p>
-    </tr>
-  </table>
-</details>
 
 <details open> 
   <summary><h2>📘 Meus principais projetos de código aberto</h2></summary>
@@ -36,13 +84,13 @@
   </p>
 
   <p align="center">
-  <a href="https://github.com/Ashu11-A?tab=repositories&sort=stargazers"><img alt="Todos os Repositórios" title="Todos os Repositórios" src="https://custom-icon-badges.demolab.com/badge/-Click%20Aqui%20Para%20Ver%20Todos%20Os%20Meus%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a>
+    <a href="https://github.com/Ashu11-A?tab=repositories&sort=stargazers">
+      <img alt="Todos os Repositórios" title="Todos os Repositórios" src="https://custom-icon-badges.demolab.com/badge/-Click%20Aqui%20Para%20Ver%20Todos%20Os%20Meus%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/>
+    </a>
   <p>
 </details>
 <details>
   <summary><h2>📊 Estatísticas do Github e Atividades</h2></summary>
-
-  
   <!-- GitHub Readme Streak Stats - https://github.com/anuraghazra/github-readme-stats -->
   <h3>🧑‍💻 Estatísticas de Linguagem</h3>
   <p>
@@ -63,17 +111,17 @@
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashu11-A&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashu11-A&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h3>⚡ Atividade recente do GitHub</h3>
+  <h3>⚡ Atividade recente do GitHub</h3>
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
-1. ❌ Closed PR [#11](https://github.com/Ashu11-A/Fragment-source/pull/11) in [Ashu11-A/Fragment-source](https://github.com/Ashu11-A/Fragment-source)
-2. 🎉 Merged PR [#11](https://github.com/Ashu11-A/Transpiler-JS-Shell/pull/11) in [Ashu11-A/Transpiler-JS-Shell](https://github.com/Ashu11-A/Transpiler-JS-Shell)
-3. 🎉 Merged PR [#12](https://github.com/Ashu11-A/Transpiler-JS-Shell/pull/12) in [Ashu11-A/Transpiler-JS-Shell](https://github.com/Ashu11-A/Transpiler-JS-Shell)
-4. 🎉 Merged PR [#10](https://github.com/Ashu11-A/Transpiler-JS-Shell/pull/10) in [Ashu11-A/Transpiler-JS-Shell](https://github.com/Ashu11-A/Transpiler-JS-Shell)
-5. 🎉 Merged PR [#9](https://github.com/Ashu11-A/Transpiler-JS-Shell/pull/9) in [Ashu11-A/Transpiler-JS-Shell](https://github.com/Ashu11-A/Transpiler-JS-Shell)
-<!--END_SECTION:activity-->
+  1. ❌ Closed PR [#11](https://github.com/Ashu11-A/Fragment-source/pull/11) in [Ashu11-A/Fragment-source](https://github.com/Ashu11-A/Fragment-source)
+  2. 🎉 Merged PR [#11](https://github.com/Ashu11-A/Transpiler-JS-Shell/pull/11) in [Ashu11-A/Transpiler-JS-Shell](https://github.com/Ashu11-A/Transpiler-JS-Shell)
+  3. 🎉 Merged PR [#12](https://github.com/Ashu11-A/Transpiler-JS-Shell/pull/12) in [Ashu11-A/Transpiler-JS-Shell](https://github.com/Ashu11-A/Transpiler-JS-Shell)
+  4. 🎉 Merged PR [#10](https://github.com/Ashu11-A/Transpiler-JS-Shell/pull/10) in [Ashu11-A/Transpiler-JS-Shell](https://github.com/Ashu11-A/Transpiler-JS-Shell)
+  5. 🎉 Merged PR [#9](https://github.com/Ashu11-A/Transpiler-JS-Shell/pull/9) in [Ashu11-A/Transpiler-JS-Shell](https://github.com/Ashu11-A/Transpiler-JS-Shell)
+  <!--END_SECTION:activity-->
 
 </details>
