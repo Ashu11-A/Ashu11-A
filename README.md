@@ -4,6 +4,7 @@
   <a href="https://webassembly.org/"><img src="https://skillicons.dev/icons?i=wasm" alt="WebAssembly" /></a>
   <a href="https://developer.mozilla.org/en/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
   <a href="https://www.w3schools.com/c/c_intro.php"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
+  <a href="https://ziglang.org//"><img src="https://skillicons.dev/icons?i=zig" alt="Zig" /></a>
   <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" alt="Python" /></a>
 </p>
 <!-- Ecossistema JavaScript -->
