@@ -118,9 +118,9 @@
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
-1. ❌ Closed PR [#11](https://github.com/Ashu11-A/Fragment-source/pull/11) in [Ashu11-A/Fragment-source](https://github.com/Ashu11-A/Fragment-source)
-  2. 🎉 Merged PR [#11](https://github.com/Ashu11-A/Transpiler-JS-Shell/pull/11) in [Ashu11-A/Transpiler-JS-Shell](https://github.com/Ashu11-A/Transpiler-JS-Shell)
-  3. 🎉 Merged PR [#12](https://github.com/Ashu11-A/Transpiler-JS-Shell/pull/12) in [Ashu11-A/Transpiler-JS-Shell](https://github.com/Ashu11-A/Transpiler-JS-Shell)
+1. 🗣 Commented on [#31](https://github.com/Ashu11-A/js-to-sh/issues/31) in [Ashu11-A/js-to-sh](https://github.com/Ashu11-A/js-to-sh)
+2. 🗣 Commented on [#32](https://github.com/Ashu11-A/js-to-sh/issues/32) in [Ashu11-A/js-to-sh](https://github.com/Ashu11-A/js-to-sh)
+3. ❌ Closed PR [#11](https://github.com/Ashu11-A/Fragment-source/pull/11) in [Ashu11-A/Fragment-source](https://github.com/Ashu11-A/Fragment-source)
   4. 🎉 Merged PR [#10](https://github.com/Ashu11-A/Transpiler-JS-Shell/pull/10) in [Ashu11-A/Transpiler-JS-Shell](https://github.com/Ashu11-A/Transpiler-JS-Shell)
   5. 🎉 Merged PR [#9](https://github.com/Ashu11-A/Transpiler-JS-Shell/pull/9) in [Ashu11-A/Transpiler-JS-Shell](https://github.com/Ashu11-A/Transpiler-JS-Shell)
   <!--END_SECTION:activity-->
