@@ -118,8 +118,8 @@
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Ashu11-A/Manga-Convert/pull/1) in [Ashu11-A/Manga-Convert](https://github.com/Ashu11-A/Manga-Convert)
-2. 🗣 Commented on [#31](https://github.com/Ashu11-A/js-to-sh/issues/31) in [Ashu11-A/js-to-sh](https://github.com/Ashu11-A/js-to-sh)
+1. 🎉 Merged PR [#2](https://github.com/Ashu11-A/Manga-Segment/pull/2) in [Ashu11-A/Manga-Segment](https://github.com/Ashu11-A/Manga-Segment)
+2. 🎉 Merged PR [#1](https://github.com/Ashu11-A/Manga-Convert/pull/1) in [Ashu11-A/Manga-Convert](https://github.com/Ashu11-A/Manga-Convert)
 3. 🗣 Commented on [#32](https://github.com/Ashu11-A/js-to-sh/issues/32) in [Ashu11-A/js-to-sh](https://github.com/Ashu11-A/js-to-sh)
   4. 🎉 Merged PR [#10](https://github.com/Ashu11-A/Transpiler-JS-Shell/pull/10) in [Ashu11-A/Transpiler-JS-Shell](https://github.com/Ashu11-A/Transpiler-JS-Shell)
   5. 🎉 Merged PR [#9](https://github.com/Ashu11-A/Transpiler-JS-Shell/pull/9) in [Ashu11-A/Transpiler-JS-Shell](https://github.com/Ashu11-A/Transpiler-JS-Shell)
