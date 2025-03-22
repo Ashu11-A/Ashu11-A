@@ -118,10 +118,10 @@
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Ashu11-A/Zyp/issues/1) in [Ashu11-A/Zyp](https://github.com/Ashu11-A/Zyp)
-2. 🎉 Merged PR [#1](https://github.com/Ashu11-A/Manga-Convert/pull/1) in [Ashu11-A/Manga-Convert](https://github.com/Ashu11-A/Manga-Convert)
-3. 🗣 Commented on [#32](https://github.com/Ashu11-A/js-to-sh/issues/32) in [Ashu11-A/js-to-sh](https://github.com/Ashu11-A/js-to-sh)
-  4. 🎉 Merged PR [#10](https://github.com/Ashu11-A/Transpiler-JS-Shell/pull/10) in [Ashu11-A/Transpiler-JS-Shell](https://github.com/Ashu11-A/Transpiler-JS-Shell)
+1. 🗣 Commented on [#13](https://github.com/Ashu11-A/Ashu_eggs/issues/13) in [Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)
+2. ❗️ Closed issue [#13](https://github.com/Ashu11-A/Ashu_eggs/issues/13) in [Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)
+3. 🗣 Commented on [#14](https://github.com/Ashu11-A/Ashu_eggs/issues/14) in [Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)
+4. 🗣 Commented on [#1](https://github.com/Ashu11-A/Zyp/issues/1) in [Ashu11-A/Zyp](https://github.com/Ashu11-A/Zyp)
   5. 🎉 Merged PR [#9](https://github.com/Ashu11-A/Transpiler-JS-Shell/pull/9) in [Ashu11-A/Transpiler-JS-Shell](https://github.com/Ashu11-A/Transpiler-JS-Shell)
   <!--END_SECTION:activity-->
 
