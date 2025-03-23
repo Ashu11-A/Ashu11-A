@@ -118,11 +118,11 @@
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/Ashu11-A/Ashu_eggs/issues/13) in [Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)
-2. ❗️ Closed issue [#13](https://github.com/Ashu11-A/Ashu_eggs/issues/13) in [Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)
-3. 🗣 Commented on [#14](https://github.com/Ashu11-A/Ashu_eggs/issues/14) in [Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)
-4. 🗣 Commented on [#1](https://github.com/Ashu11-A/Zyp/issues/1) in [Ashu11-A/Zyp](https://github.com/Ashu11-A/Zyp)
-  5. 🎉 Merged PR [#9](https://github.com/Ashu11-A/Transpiler-JS-Shell/pull/9) in [Ashu11-A/Transpiler-JS-Shell](https://github.com/Ashu11-A/Transpiler-JS-Shell)
+1. 🗣 Commented on [#34964](https://github.com/expo/expo/issues/34964) in [expo/expo](https://github.com/expo/expo)
+2. 🗣 Commented on [#13](https://github.com/Ashu11-A/Ashu_eggs/issues/13) in [Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)
+3. ❗️ Closed issue [#13](https://github.com/Ashu11-A/Ashu_eggs/issues/13) in [Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)
+4. 🗣 Commented on [#14](https://github.com/Ashu11-A/Ashu_eggs/issues/14) in [Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)
+5. 🗣 Commented on [#1](https://github.com/Ashu11-A/Zyp/issues/1) in [Ashu11-A/Zyp](https://github.com/Ashu11-A/Zyp)
   <!--END_SECTION:activity-->
 
 </details>
