@@ -41,8 +41,7 @@
 </p>
 <!-- Redes Sociais e Plataformas -->
 <p align="center">
-  <a href="https://discord.com/"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a>
-  <a href="https://x.com/"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
+  <a href="https://www.jetbrains.com/idea/"><img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" /></a>
   <a href="https://stackoverflow.com/"><img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow" /></a>
   <a href="https://www.cloudflare.com/"><img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" /></a>
   <a href="https://www.heroku.com/"><img src="https://skillicons.dev/icons?i=heroku" alt="Heroku" /></a>
@@ -53,15 +52,14 @@
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
   <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
   <a href="https://pt.wikipedia.org/wiki/Bash"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" /></a>
-  <a href="https://www.jetbrains.com/idea/"><img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" /></a>
   <a href="https://www.markdownguide.org/"><img src="https://skillicons.dev/icons?i=md" alt="Markdown" /></a>
   <a href="https://nginx.org/"><img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" /></a>
+  <a href="https://nestjs.com/"><img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" /></a>
 </p>
 <!-- Bibliotecas Frontend e Backend -->
 <p align="center">
   <a href="https://babeljs.io/"><img src="https://skillicons.dev/icons?i=babel" alt="Babel" /></a>
   <a href="https://jestjs.io/"><img src="https://skillicons.dev/icons?i=jest" alt="Jest" /></a>
-  <a href="https://nestjs.com/"><img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" /></a>
   <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></a>
   <a href="https://skillicons.dev/icons?i=npm"><img src="https://skillicons.dev/icons?i=npm" alt="npm" /></a>
   <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
@@ -71,8 +69,6 @@
   <a href="https://discord.js.org/"><img src="https://skillicons.dev/icons?i=discordjs" alt="Discord.js" /></a>
   <a href="https://discord.com/developers/docs/intro"><img src="https://skillicons.dev/icons?i=bots" alt="Bots" /></a>
 </p>
-
-
 
 <details open> 
   <summary><h2>📘 Meus principais projetos de código aberto</h2></summary>
@@ -109,6 +105,12 @@
   <p>
     <img alt="Estatísticas de Github de Ashu11-A" src="https://github-readme-stats.vercel.app/api/?username=Ashu11-A&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=63fbf2&icon_color=fff" height="192px"/>
   </p>
+
+  <div align="center">
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashu11-A&theme=transparent)
+    
+  </div>
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
