@@ -75,9 +75,9 @@
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/Ashu11-A/Ashu_eggs"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashu11-A&repo=Ashu_eggs&theme=transparent&show_icons=false&title_color=63fbf2&icon_color=fff" alt="readme-typing-svg"></a>
-    <a href="https://github.com/Next-Panel/Jexactyl-BR"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Next-Panel&repo=Jexactyl-BR&theme=transparent&show_icons=false&title_color=63fbf2&icon_color=fff" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/Ashu11-A/PaymentBot"><img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=Ashu11-A&repo=PaymentBot&theme=transparent&show_icons=false&title_color=63fbf2&icon_color=fff" alt="custom-icon-badges"></a>
+    <a href="https://github.com/Ashu11-A/Ashu_eggs"><img width="278" src="https://github-stats-gilt-eta.vercel.app/api/pin/?username=Ashu11-A&repo=Ashu_eggs&theme=transparent&show_icons=false&title_color=63fbf2&icon_color=fff" alt="readme-typing-svg"></a>
+    <a href="https://github.com/Next-Panel/Jexactyl-BR"><img width="278" src="https://github-stats-gilt-eta.vercel.app/api/pin/?username=Next-Panel&repo=Jexactyl-BR&theme=transparent&show_icons=false&title_color=63fbf2&icon_color=fff" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/Ashu11-A/PaymentBot"><img width="278" src="https://github-stats-gilt-eta.vercel.app/api/pin?username=Ashu11-A&repo=PaymentBot&theme=transparent&show_icons=false&title_color=63fbf2&icon_color=fff" alt="custom-icon-badges"></a>
   </p>
 
   <p align="center">
@@ -91,7 +91,7 @@
   <!-- GitHub Readme Streak Stats - https://github.com/anuraghazra/github-readme-stats -->
   <h3>🧑‍💻 Estatísticas de Linguagem</h3>
   <p>
-    <img alt="Ashu11-A streak" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashu11-A&theme=transparent&layout=compact&langs_count=20&hide_border=true&card_width=490&title_color=63fbf2&icon_color=fff"/>
+    <img alt="Ashu11-A streak" src="https://github-stats-gilt-eta.vercel.app/api/top-langs?username=Ashu11-A&theme=transparent&layout=compact&langs_count=20&hide_border=true&card_width=490&title_color=63fbf2&icon_color=fff"/>
   </p>
   <h3>🔥 Estatísticas Streak</h3>
   <p>
@@ -103,7 +103,7 @@
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
   <p>
-    <img alt="Estatísticas de Github de Ashu11-A" src="https://github-readme-stats.vercel.app/api/?username=Ashu11-A&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=63fbf2&icon_color=fff" height="192px"/>
+    <img alt="Estatísticas de Github de Ashu11-A" src="https://github-stats-gilt-eta.vercel.app/api/?username=Ashu11-A&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=63fbf2&icon_color=fff" height="192px"/>
   </p>
 
   <div align="center">
