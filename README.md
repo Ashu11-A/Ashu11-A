@@ -95,7 +95,7 @@
   </p>
   <h3>🔥 Estatísticas Streak</h3>
   <p>
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ashu11-A streak" src="https://streak-stats.demolab.com/?user=Ashu11-A&theme=transparent&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ashu11-A streak" src="https://githubstreakstats.vercel.app/?user=Ashu11-A&theme=transparent&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly"/>
   </p>
 
   <h3>💻 Estatísticas de perfil do GitHub</h3>
